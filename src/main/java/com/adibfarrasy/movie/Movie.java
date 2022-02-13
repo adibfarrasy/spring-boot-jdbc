@@ -1,6 +1,6 @@
-package com.amigoscode.movie;
+package com.adibfarrasy.movie;
 
-import com.amigoscode.actor.Actor;
+import com.adibfarrasy.actor.Actor;
 
 import java.time.LocalDate;
 import java.util.List;

@@ -1,9 +1,9 @@
 services:
   postgres:
-    container_name: postgres
+    container_name: postgres_jdbc
     image: postgres
     environment:
-      POSTGRES_USER: amigoscode
+      POSTGRES_USER: adibfarrasy
       POSTGRES_PASSWORD: password
       PGDATA: /data/postgres
     volumes:

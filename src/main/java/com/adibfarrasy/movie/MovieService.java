@@ -1,6 +1,6 @@
-package com.amigoscode.movie;
+package com.adibfarrasy.movie;
 
-import com.amigoscode.exception.NotFoundException;
+import com.adibfarrasy.exception.NotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
